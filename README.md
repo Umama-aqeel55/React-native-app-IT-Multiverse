@@ -18,6 +18,7 @@ Built for Android & iOS using **React Navigation**, **Expo Icons**, and **custom
 ---
 
 ## 📁 Folder Structure
+```
 ITMultiverseApp/
 ├── assets/              → Local images (course images, home.jpg)
 ├── components/          → Optional reusable UI components
@@ -27,7 +28,7 @@ ITMultiverseApp/
 ├── app.json             → Expo configuration
 ├── package.json         → Project dependencies
 └── README.md            → This file!
-
+```
 ---
 
 ## 🛠️ Installation
