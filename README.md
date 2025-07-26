@@ -68,7 +68,7 @@ npx expo start --tunnel
 
 ## 🧑‍💻 Author
 - Developed by UMAMA AQEEL
-- For training / learning / demo purposes inspired by itmultiverse.com.
+- For training / learning / demo purposes inspired by [itmultiverse.com](https://itmultiverse.com/).
 
 
 
