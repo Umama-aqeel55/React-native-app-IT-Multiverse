@@ -19,25 +19,14 @@ Built for Android & iOS using **React Navigation**, **Expo Icons**, and **custom
 
 ## 📁 Folder Structure
 ITMultiverseApp/
-│
-├── assets/                 → Local images (home.jpg, course1.png, etc.)
-│
-├── components/             → Reusable components (optional)
-│
-├── navigation/             → Stack navigators (e.g. CoursesStack.js)
-│
-├── screens/                → All main screens
-│   ├── Home.js             → Home screen
-│   ├── Courses.js          → Courses listing
-│   ├── CourseDetails.js    → Detailed course info
-│   ├── About.js            → About screen
-│   └── Contact.js          → Contact form + info
-│
-├── App.js                  → Main entry point with BottomTabNavigation
-├── app.json                → Expo configuration file
-├── package.json            → Project metadata & dependencies
-├── README.md               → Project documentation
-└── .gitignore              → Git ignored files
+├── assets/              → Local images (course images, home.jpg)
+├── components/          → Optional reusable UI components
+├── navigation/          → Navigation config (CoursesStack.js)
+├── screens/             → App screens (Home, Courses, About, Contact)
+├── App.js               → Main entry point with Bottom Tab Navigation
+├── app.json             → Expo configuration
+├── package.json         → Project dependencies
+└── README.md            → This file!
 
 ---
 
